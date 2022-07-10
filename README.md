@@ -33,7 +33,15 @@
 * Output:  ```Unsigned octal:[6] => 18```
 
 Authors: 
+ <h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%"> AUTHORS</h1>
 
+</div>
+
+<p align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=0x00-joy+%7C%7C+0x01-onuh+%7C%7C+and+mordecai+Etukudo;aka+%7C%7C+martcpp+%7C%7C++%7C%7C+and+-Damselfaustina; keep in touch n +and+many+more;Never+Stop+Learning!&center=true&width=800&height=45" alt="grudev325">
+
+</p>
 
 
 ## Project Requirements
