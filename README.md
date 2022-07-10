@@ -38,7 +38,7 @@ Authors:
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=joy+onuh+%7C%7C+and+%7C%7C+mordecai+Etukudo+aka+martcpp;contributed+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="martcpp">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=joy+onuh+%7C%7C+and+%7C%7C+mordecai+Etukudo+aka+martcpp;contributed+%7C%7C+alot+%7C%7C+to+%7C%7C+the+Project;Hope+you+like+it;Never+Stop+Learning!&center=true&width=800&height=45" alt="martcpp">
 
 </p>
 
