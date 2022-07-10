@@ -33,7 +33,7 @@
 * Output:  ```Unsigned octal:[6] => 18```
 
 Authors: 
- <h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%"> AUTHORS</h1>
+ <h1 style="position: absolute; color: pink; bottom: 15px; transform: translate(-50%, 0); left: 50%"> AUTHORS</h1>
 
 <p align="center">
 
