@@ -35,13 +35,17 @@
 Authors: 
  <h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%"> AUTHORS</h1>
 
-</div>
-
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=0x00-joy+%7C%7C+0x01-onuh+%7C%7C+and+mordecai+Etukudo;aka+%7C%7C+martcpp+%7C%7C++%7C%7C+and+-Damselfaustina; keep in touch n +and+many+more;Never+Stop+Learning!&center=true&width=800&height=45" alt="grudev325">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=tech+%7C%7C+Defi+%7C%7C+C+Game+Enthusiastic;React+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="grudev325">
 
 </p>
+
+
+
+
+
+
 
 
 ## Project Requirements
