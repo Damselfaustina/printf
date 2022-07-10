@@ -37,7 +37,7 @@ Authors:
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=joy+onuh%7C%7C+and+%7C%7C+mordecai+Etukudo; contributed+%7C%7C+alot+%7C%7C+to+%7C%7C+the+task;Hope+you+l❤️ve+it;Never+Stop+Learning!&center=true&width=800&height=45" alt="martcpp">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=joy+onuh%7C%7C+and+%7C%7C+mordecai+Etukudo; contributed+%7C%7C+alot+%7C%7C+to+%7C%7C+the+task;Hope+you+love+it;Never+Stop+Learning!&center=true&width=800&height=45" alt="martcpp">
 
 </p>
 
