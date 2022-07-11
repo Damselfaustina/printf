@@ -70,6 +70,6 @@ _printf("%s, %s %d, %d\\n", weekday, month, day, year);
 .SH SEE ALSO
 .I printf(3)
 .SH BUGS
-No known bugs, If one is found sent your report to https://github.com/martcpp and https://github.com/
+No known bugs, If one is found sent your report to https://github.com/martcpp and https://github.com/Damselfaustina
 .SH AUTHOR
 pretty joy onuh, mordecai etukudo
