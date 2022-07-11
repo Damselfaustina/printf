@@ -118,4 +118,4 @@ Using the following the **code** ```cp -v man_3_printf /usr/local/man/man1/_prin
 
 converting the file to a zip file **using the code** ```gzip /usr/local/man/man1/_print.1```.
 
-**Run** ```man _print.1```.
+**Run** ```man _print```
