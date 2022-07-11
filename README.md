@@ -114,7 +114,7 @@ Authors:
 **write.c**
 * contains write functions.
 # man page documentation
-Using the following the **code** ```cp -v man_3_printf /usr/local/man/man1/_print.1```.
+Using the following **code** ```cp -v man_3_printf /usr/local/man/man1/_print.1```.
 
 converting the file to a zip file **using the code** ```gzip /usr/local/man/man1/_print.1```.
 
